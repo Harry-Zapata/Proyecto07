@@ -1,18 +1,19 @@
-a.nav-link:hover{
+a.nav-link:hover {
     color: hsl(5, 85%, 63%);
-    }
-.h1-custom{
+}
+
+.h1-custom {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
     font-size: 50px;
 }
 
-.p-custom{
+.p-custom {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
 }
 
-.btn-custom{
+.btn-custom {
     background-color: hsl(5, 85%, 63%);
     color: #fff;
     border: none;
@@ -21,58 +22,62 @@ a.nav-link:hover{
     font-size: 18px;
     width: 180px;
 }
-.btn-custom:hover{
+
+.btn-custom:hover {
     background-color: #000;
 }
 
 
 
-.h2-custom{
+.h2-custom {
     font-weight: 700;
     color: hsl(35, 77%, 62%);
     font-size: 38px;
 }
 
-.h5-custom{
+.h5-custom {
     font-weight: 700;
+    font-size: 20px;
 }
 
-.side-p{
+.side-p {
     color: rgb(202, 202, 202);
     font-size: 17px;
 }
 
-.bg-side-custom{
+.bg-side-custom {
     background-color: hsl(240, 100%, 5%);
 }
 
-.border-bottom-custom{
+.border-bottom-custom {
     border-bottom: 1px solid rgba(204, 204, 204, 0.438);
 }
-.h5-custom:hover{
+
+.h5-custom:hover {
     color: black;
 }
+
 /* sección de tres */
 
 
 
-.numero{
+.numero {
     color: hsla(237, 12%, 30%, 0.493);
     font-weight: 700;
-    }
-    
-    .texto{
+}
+
+.texto {
     color: hsl(236, 13%, 42%);
     font-size: 13px;
-    }
-    
-    .subtitulo{
+}
+
+.subtitulo {
     font-weight: 800;
     font-size: 15px;
-    }
-    
-    .imagengamer{
+}
+
+.imagengamer {
     width: 100px;
     height: 130px;
     margin-right: 10px;
-    }
+}
